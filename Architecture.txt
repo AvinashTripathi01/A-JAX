@@ -1,0 +1,97 @@
+fitness_app/
+│
+├── app.py
+├── utils.py
+├── config.py        (later)
+├── ai.py            (later)
+├── exercise.py      (later)
+│
+├── data/
+│   ├── Workout_Log.csv
+│   └── Body_Log.csv
+│
+├── charts/          (later)
+├── assets/          (later)
+│
+├── requirements.txt
+└── venv/
+
+
+1️⃣ PERFORMANCE ANALYTICS
+PURPOSE:
+
+“How hard am I training?”
+
+METRICS
+Metric
+Daily Volume
+Weekly Volume
+Strength Index
+Volume Progression
+PR Tracking
+CHARTS
+Chart
+Volume trend
+Strength trend
+Weekly workload
+2️⃣ MUSCLE ANALYTICS
+PURPOSE:
+
+“What muscles am I actually training?”
+
+METRICS
+Metric
+Volume per muscle
+Volume per region
+Frequency per muscle
+Undertrained muscles
+Overtrained muscles
+CHARTS
+Chart
+Muscle distribution
+Weekly muscle workload
+Muscle imbalance chart
+3️⃣ BODY COMPOSITION ANALYTICS
+PURPOSE:
+
+“How is my body changing?”
+
+METRICS
+Metric
+Weight trend
+Estimated fat-loss trend
+Protein adequacy
+Calorie balance
+Growth score
+CHARTS
+Chart
+Weight trend
+Calories trend
+Protein trend
+Growth score trend
+4️⃣ RECOVERY ANALYTICS (LATER)
+PURPOSE:
+
+“Am I recovering properly?”
+
+METRICS
+Metric
+Days since muscle trained
+Recovery score
+Fatigue score
+Consecutive training days
+CHARTS
+Chart
+Recovery heatmap
+Fatigue trend
+5️⃣ DISCIPLINE ANALYTICS (LATER)
+
+Your second tracker system.
+
+METRICS
+Metric
+Sleep consistency
+Gym adherence
+Smoking/alcohol
+Work hours
+Discipline score

@@ -1,0 +1,1 @@
+I want that body log updates the data for the same date if multiple entry of data for the same date 
