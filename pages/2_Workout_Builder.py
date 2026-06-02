@@ -1,6 +1,6 @@
 # workout builder
 from session_engine import *
-from utils import *
+from analytics_engine import *
 from charts import *
 
 # pages/2_Workout_Builder.py
@@ -9,7 +9,7 @@ import streamlit as st
 import pandas as pd
 from datetime import date
 
-from exercise import *
+from api.services.exercise import *
 from template_engine import *
 
 # =====================================================

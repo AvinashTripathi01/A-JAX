@@ -12,7 +12,11 @@ import os
 # FILE PATH
 # =====================================================
 
-EXERCISE_FILE = "data/exercises.json"
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+
+EXERCISE_FILE = BASE_DIR / "data" / "exercises.json"
 
 
 # =====================================================

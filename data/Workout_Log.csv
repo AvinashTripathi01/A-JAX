@@ -1,3 +1,1 @@
-Date,Exercise,Muscle Group,Region,Target Muscles,Sets,Reps,Weight (kg)
-2026-05-07,Hammer Curls,Biceps,Biceps,Brachialis,3,10,20.0
-2026-05-07,DB Spider Curls,Biceps,Biceps,Short Head,3,10,20.0
+session_id,date,template_name,exercise_name,actual_sets,actual_reps,weight,volume,status,notes

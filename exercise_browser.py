@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-from exercise import *
+from api.services.exercise import *
 
 
 # =====================================================

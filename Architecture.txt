@@ -16,6 +16,19 @@ fitness_app/
 ├── requirements.txt
 └── venv/
 
+fitness_app/
+│
+├── app.py
+│
+├── pages/
+│   ├── 1_Dashboard.py
+│   ├── 2_Workout_Builder.py
+│   ├── 3_Execute_Workout.py
+│   ├── 4_Exercise_Browser.py
+│   ├── 5_Analytics.py
+│   ├── 6_Body_Tracking.py
+│   ├── 7_Template_Library.py
+│   └── 8_Session_History.py
 
 1️⃣ PERFORMANCE ANALYTICS
 PURPOSE:

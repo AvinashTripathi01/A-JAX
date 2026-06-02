@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-from utils import *
+from analytics_engine import *
 from charts import *
 
 # =====================================================
@@ -197,7 +197,7 @@ if not body_df.empty:
 
 if not workout_df.empty and not body_df.empty:
 
-    strength_df = strength_index(
+    strength_df = work_capacity_index(
 
         workout_df,
 
